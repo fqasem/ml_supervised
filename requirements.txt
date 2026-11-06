@@ -1,0 +1,7 @@
+ipykernel
+ipympl
+ipywidgets
+matplotlib
+numpy
+scipy
+scikit-learn
