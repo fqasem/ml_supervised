@@ -38,9 +38,4 @@ dist/
 *.log
 .cache/
 
-# Ignore generated outputs if needed
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.pdf
+
